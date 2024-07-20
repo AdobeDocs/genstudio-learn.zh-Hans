@@ -132,7 +132,7 @@ ht-degree: 7%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" title="配置Adobe Workfront和AEM Assets软件包">配置Adobe Workfront和AEM Assets软件包</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" title="配置Adobe Workfront和AEM Assets软件包">配置Adobe Workfront和AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>了解如何配置Adobe Workfront和Assets Essentials集成</em></p>
       </div>
@@ -261,7 +261,7 @@ ht-degree: 7%
 
 ## 其他资源
 
-* [Experience League事件](https://experienceleague.adobe.com/events/)
-* [Adobe [!DNL GenStudio] 在business.adobe.com上](https://business.adobe.com/solutions/adobe-genstudio.html)
+* [Experience League活动](https://experienceleague.adobe.com/events/)
+* business.adobe.com上的[Adobe [!DNL GenStudio] ](https://business.adobe.com/solutions/adobe-genstudio.html)
 * [Adobe [!DNL GenStudio] 资源指南](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
-* [内容供应链上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* 内容供应链上的[Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
