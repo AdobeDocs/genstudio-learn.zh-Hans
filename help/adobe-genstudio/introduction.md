@@ -1,13 +1,13 @@
 ---
 title: 简介
 description: 简介
-source-git-commit: 66641d3560a1729e5a982ab70d523b0d82dbd28a
+source-git-commit: 92581e6251297c40001c99eba09fc019b9770d92
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 15%
+source-wordcount: '15'
+ht-degree: 20%
 
 ---
 
 # 简介
 
-如果要将此文件重命名为overview.md，请删除content-supply-chain-tutorials.md文件中的重定向。
+请访问[GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)主页以了解最新信息。
