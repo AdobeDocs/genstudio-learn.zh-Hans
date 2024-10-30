@@ -1,5 +1,5 @@
 ---
-source-git-commit: 067115d30e9c6b49d3575b293c8f85d29bab4544
+source-git-commit: 25434d58a4b416d5792d3065a87117caa4ab8c97
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 36%
@@ -7,7 +7,7 @@ ht-degree: 36%
 ---
 # 投稿文章
 
-**注意：**&#x200B;已存档此存储库。
+**注意：**&#x200B;已存档此存储库！
 
 我们欢迎来自我们的社区以及来自文档团队以外的 Adobe 员工的投稿。
 
